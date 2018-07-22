@@ -1,3 +1,6 @@
 [submodule "Automatic-Water-level-indicator-system"]
 	path = Automatic-Water-level-indicator-system
 	url = https://github.com/Rizzeol/Automatic-Water-level-indicator-system-.git
+[submodule "Digital-Banner-"]
+	path = Digital-Banner-
+	url = https://github.com/Rizzeol/Digital-Banner-.git
